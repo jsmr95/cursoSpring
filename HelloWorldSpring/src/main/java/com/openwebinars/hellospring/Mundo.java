@@ -4,6 +4,8 @@ public class Mundo {
 
     private String saludo;
     
+    public Mundo() { }
+    
     public Mundo(String saludo) {
     	this.saludo = saludo;
     }
