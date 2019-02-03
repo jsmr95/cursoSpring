@@ -1,4 +1,4 @@
 #CURSO DE SPRING (openWebinars)
 
-  Temario de todo el curso sobre el framework de Java -> Spring.
+  Temario y proyectos de todo el curso sobre el framework de Java -> Spring.
   
